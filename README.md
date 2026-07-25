@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CV - Mahmoud Abou El-Qasim Maher</title>
     <style>
         @page {
             size: A4;
